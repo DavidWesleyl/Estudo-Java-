@@ -1,1 +1,1 @@
-# Estudo da sintaze de Java para aprendizado e Orientação a objetos 
+Estudo da sintaxe de Java para aprendizado e Orientação a objetos 
